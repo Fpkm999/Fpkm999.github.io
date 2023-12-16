@@ -1,3 +1,9 @@
+---
+title: test999
+date: 2023-12-16 10:10:10 +0900
+categories: [test1]
+tags: Test
+---
 # 특정 컬럼만 조회하기
 
 #solveSQL #난이도1 #특정컬럼조
