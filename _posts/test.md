@@ -1,8 +1,11 @@
 ---
-title: test999
-date: 2023-12-16 10:10:10 +0900
-categories: [test1]
-tags: Test
+title: Getting Started999
+author: fpkm999
+date: 2023-12-16 20:55:00 +0800
+categories: [Blogging, Tutorial]
+tags: [getting started]
+pin: true
+img_path: '/posts/20180809'
 ---
 # 특정 컬럼만 조회하기
 
